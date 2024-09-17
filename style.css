@@ -4,10 +4,11 @@ body {
             background-repeat: no-repeat;
             background-size: cover;
             scroll-behavior: smooth;
+            color: white;
         }
         header {
             background-color: #333;
-            color: #fff;
+            color: white;
             text-align: center;
             padding: 1rem;
         }
