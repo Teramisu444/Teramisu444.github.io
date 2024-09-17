@@ -1,15 +1,14 @@
 body {
-            background-image: url=("Background.jpg");
+            background-image: url("Background.jpg");
             font-family: Arial, sans-serif;
             background-repeat: no-repeat;
             background-size: cover;
             scroll-behavior: smooth;
-            position: absolute;
-            padding-inline: 30%;
+            color: white;
         }
         header {
             background-color: #333;
-            color: #fff;
+            color: white;
             text-align: center;
             padding: 1rem;
         }
