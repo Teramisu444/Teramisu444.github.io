@@ -35,7 +35,7 @@ body {
             flex-wrap: wrap;
         }
         .project {
-            background: rgb(100,100,100,50);
+            background: rgba(100,100,100,0.3);
             width: 30%;
             padding: 1rem;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
